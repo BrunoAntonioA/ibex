@@ -1,0 +1,16 @@
+mpexp.lo: mpexp.c /usr/include/stdc-predef.h endian.h mathlib_config.h \
+ mathlib_configuration.h IX86_endian.h mpa.h mpexp.h
+
+/usr/include/stdc-predef.h:
+
+endian.h:
+
+mathlib_config.h:
+
+mathlib_configuration.h:
+
+IX86_endian.h:
+
+mpa.h:
+
+mpexp.h:

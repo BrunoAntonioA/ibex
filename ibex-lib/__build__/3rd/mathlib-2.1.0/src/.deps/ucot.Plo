@@ -1,0 +1,20 @@
+ucot.lo: ucot.c /usr/include/stdc-predef.h endian.h mathlib_config.h \
+ mathlib_configuration.h IX86_endian.h mydefs.h ucot.h ucot.tbl trigo.h
+
+/usr/include/stdc-predef.h:
+
+endian.h:
+
+mathlib_config.h:
+
+mathlib_configuration.h:
+
+IX86_endian.h:
+
+mydefs.h:
+
+ucot.h:
+
+ucot.tbl:
+
+trigo.h:

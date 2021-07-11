@@ -1,0 +1,9 @@
+prefix=/home/cyx/proyectos/ibex/ibex-lib
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+Name: ibex
+Description: A C++ library for interval-based algorithm design
+Version: 2.8.0
+Cflags: -I${includedir} -I${includedir}/ibex -I${includedir}/ibex/3rd 
+Libs: -L${libdir} -L${libdir}/ibex/3rd -libex -lgaol -lgdtoa -lultim -lsoplex -lz

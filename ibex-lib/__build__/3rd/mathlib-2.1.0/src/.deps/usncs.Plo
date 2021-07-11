@@ -1,0 +1,21 @@
+usncs.lo: usncs.c /usr/include/stdc-predef.h endian.h mathlib_config.h \
+ mathlib_configuration.h IX86_endian.h mydefs.h usncs.h MathLib.h \
+ sincos.tbl
+
+/usr/include/stdc-predef.h:
+
+endian.h:
+
+mathlib_config.h:
+
+mathlib_configuration.h:
+
+IX86_endian.h:
+
+mydefs.h:
+
+usncs.h:
+
+MathLib.h:
+
+sincos.tbl:

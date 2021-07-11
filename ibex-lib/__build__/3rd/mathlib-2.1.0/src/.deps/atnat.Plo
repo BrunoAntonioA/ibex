@@ -1,0 +1,23 @@
+atnat.lo: atnat.c /usr/include/stdc-predef.h endian.h mathlib_config.h \
+ mathlib_configuration.h IX86_endian.h dla.h mpa.h MathLib.h uatan.tbl \
+ atnat.h
+
+/usr/include/stdc-predef.h:
+
+endian.h:
+
+mathlib_config.h:
+
+mathlib_configuration.h:
+
+IX86_endian.h:
+
+dla.h:
+
+mpa.h:
+
+MathLib.h:
+
+uatan.tbl:
+
+atnat.h:

@@ -1,0 +1,7 @@
+variables
+z1 in [-1e8, 1e8];
+z2 in [-1e8, 1e8];
+
+constraints
+
+end

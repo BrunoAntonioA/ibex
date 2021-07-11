@@ -1,0 +1,21 @@
+dosincos.lo: dosincos.c /usr/include/stdc-predef.h endian.h \
+ mathlib_config.h mathlib_configuration.h IX86_endian.h mydefs.h \
+ sincos.tbl dla.h dosincos.h
+
+/usr/include/stdc-predef.h:
+
+endian.h:
+
+mathlib_config.h:
+
+mathlib_configuration.h:
+
+IX86_endian.h:
+
+mydefs.h:
+
+sincos.tbl:
+
+dla.h:
+
+dosincos.h:

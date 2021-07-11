@@ -1,0 +1,20 @@
+uexp.lo: uexp.c /usr/include/stdc-predef.h endian.h mathlib_config.h \
+ mathlib_configuration.h IX86_endian.h uexp.h mydefs.h MathLib.h uexp.tbl
+
+/usr/include/stdc-predef.h:
+
+endian.h:
+
+mathlib_config.h:
+
+mathlib_configuration.h:
+
+IX86_endian.h:
+
+uexp.h:
+
+mydefs.h:
+
+MathLib.h:
+
+uexp.tbl:

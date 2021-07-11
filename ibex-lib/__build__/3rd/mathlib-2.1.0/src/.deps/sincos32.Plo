@@ -1,0 +1,16 @@
+sincos32.lo: sincos32.c /usr/include/stdc-predef.h endian.h \
+ mathlib_config.h mathlib_configuration.h IX86_endian.h mpa.h sincos32.h
+
+/usr/include/stdc-predef.h:
+
+endian.h:
+
+mathlib_config.h:
+
+mathlib_configuration.h:
+
+IX86_endian.h:
+
+mpa.h:
+
+sincos32.h:

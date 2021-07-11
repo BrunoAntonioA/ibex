@@ -1,0 +1,5 @@
+mpatan2.lo: mpatan2.c /usr/include/stdc-predef.h mpa.h
+
+/usr/include/stdc-predef.h:
+
+mpa.h:

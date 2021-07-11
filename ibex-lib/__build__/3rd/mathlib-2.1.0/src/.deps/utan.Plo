@@ -1,0 +1,23 @@
+utan.lo: utan.c /usr/include/stdc-predef.h endian.h mathlib_config.h \
+ mathlib_configuration.h IX86_endian.h dla.h mpa.h MathLib.h utan.h \
+ utan.tbl
+
+/usr/include/stdc-predef.h:
+
+endian.h:
+
+mathlib_config.h:
+
+mathlib_configuration.h:
+
+IX86_endian.h:
+
+dla.h:
+
+mpa.h:
+
+MathLib.h:
+
+utan.h:
+
+utan.tbl:

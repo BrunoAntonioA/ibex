@@ -1,0 +1,23 @@
+upow.lo: upow.c /usr/include/stdc-predef.h MathLib.h mathlib_config.h \
+ mathlib_configuration.h endian.h IX86_endian.h upow.h mydefs.h dla.h \
+ upow.tbl
+
+/usr/include/stdc-predef.h:
+
+MathLib.h:
+
+mathlib_config.h:
+
+mathlib_configuration.h:
+
+endian.h:
+
+IX86_endian.h:
+
+upow.h:
+
+mydefs.h:
+
+dla.h:
+
+upow.tbl:

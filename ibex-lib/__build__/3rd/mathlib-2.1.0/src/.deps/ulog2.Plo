@@ -1,0 +1,23 @@
+ulog2.lo: ulog2.c /usr/include/stdc-predef.h endian.h mathlib_config.h \
+ mathlib_configuration.h IX86_endian.h upow.h mydefs.h dla.h upow.tbl \
+ ulog2.h
+
+/usr/include/stdc-predef.h:
+
+endian.h:
+
+mathlib_config.h:
+
+mathlib_configuration.h:
+
+IX86_endian.h:
+
+upow.h:
+
+mydefs.h:
+
+dla.h:
+
+upow.tbl:
+
+ulog2.h:
